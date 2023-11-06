@@ -13,7 +13,7 @@ Resources:
       Tags:
         -
           Key: Appplication
-          Value:  robela Server
+          Value:  robelaro Server
 
   WebAppSecurityGroup:
     Type: AWS::EC2::SecurityGroup
